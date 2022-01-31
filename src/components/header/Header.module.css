@@ -1,0 +1,28 @@
+.contact{
+    display: flex;
+    align-items: center;
+    color: #5f6368;
+    font-size:25px;
+    font-weight: 500;
+
+}
+.nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 30px;
+}
+.input{
+    background-color: #f1f3f4;
+    width: 42%;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+    float: left;
+    outline: none;
+    margin-right: 25%;
+    text-align: justify;
+    font-size: 14px;
+}
